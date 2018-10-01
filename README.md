@@ -4,3 +4,8 @@ To develop AI, Developers require many variety of tools. Learning Curve of these
 
 # For Enabling Computation:
 Python
+
+# Framework
+Tensorflow
+Keras
+PyTorch
