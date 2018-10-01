@@ -9,3 +9,9 @@ Python
 Tensorflow
 Keras
 PyTorch
+
+
+# NLP
+Spacy
+Textblob
+NLTK
