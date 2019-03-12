@@ -15,3 +15,8 @@ PyTorch
 Spacy
 Textblob
 NLTK
+
+
+# Important Packages
+imbalanced-learn
+sklearn-crfsuite
